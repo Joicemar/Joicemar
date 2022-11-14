@@ -2,4 +2,4 @@
  
  ##You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
  
-![This is an image]([https://myoctocat.com/build-your-octocat/](https://myoctocat.com/assets/images/base-octocat.svg)))
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
