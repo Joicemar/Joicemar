@@ -12,4 +12,8 @@
  
 Documentação do GitHub: https://docs.github.com/pt
 
-https://api.jquery.com/jquery.ajax/
+framework frond end https://api.jquery.com/jquery.ajax/
+
+editor online de html, css e javascript https://jsfiddle.net
+
+Emogis para adicionar em páginas emojipedia.org; 
