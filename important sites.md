@@ -16,4 +16,6 @@ framework frond end https://api.jquery.com/jquery.ajax/
 
 editor online de html, css e javascript https://jsfiddle.net
 
-Emogis para adicionar em páginas emojipedia.org; 
+Emogis para adicionar em páginas: emojipedia.org
+
+Site de cursos gratuítos: https://recode.org.br/#projetos
