@@ -19,3 +19,5 @@ editor online de html, css e javascript https://jsfiddle.net
 Emogis para adicionar em páginas: emojipedia.org
 
 Site de cursos gratuítos: https://recode.org.br/#projetos
+
+Site para todo tipo de icones: https://iconarchive.com
