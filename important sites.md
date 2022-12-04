@@ -23,3 +23,6 @@ Site de cursos gratuítos: https://recode.org.br/#projetos
 Site para todo tipo de icones: https://iconarchive.com
 
 Tecnologias Web tutorials e projetos: https://tutsplus.com/?_ga=2.103184649.80143193.1669762817-2060024814.1669762817
+
+Ferramenta para criar UML, UML em codigo ou transforma código em UML: https://staruml.io
+
