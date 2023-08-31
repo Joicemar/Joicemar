@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
   <a href="https://github.com/Joicemar">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joicemar&theme=dark&show_icons=true"/>
@@ -22,5 +21,5 @@ Here are some ideas to get you started:
   </a>
   <br>
   <a href="https://www.linkedin.com/in/joicemar-s-morais-ba4a691b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://joicemar.github.io/personal-website/" target="_blank"><img src="https://img.shields.io/badge/-Visite%20meu%20Portfolio-%6236FF?style=for-the-badge" target="_blank"></a>
+  <a href="https://joicemarportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Visite%20meu%20Portfolio-%6236FF?style=for-the-badge" target="_blank"></a>
 </div>
